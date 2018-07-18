@@ -1,0 +1,116 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\CalculatorProject.dll.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\CalculatorProject.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\CalculatorProject.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\csc.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\csc.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\csc.rsp
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\csi.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\csi.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\csi.rsp
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.AppContext.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Console.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\vbc.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\vbc.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\vbc.rsp
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csprojAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.CopyComplete
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.dll
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\CalculatorProject.dll.config
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\CalculatorProject.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\CalculatorProject.pdb
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\csc.exe
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\csc.exe.config
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\csc.rsp
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\csi.exe
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\csi.exe.config
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\csi.rsp
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.AppContext.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Console.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\vbc.exe
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\vbc.exe.config
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\vbc.rsp
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csprojAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.CopyComplete
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.dll
+C:\Users\Cyberadmin\Desktop\Asp.Net_Calculator\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
